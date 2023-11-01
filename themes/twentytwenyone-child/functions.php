@@ -6,7 +6,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_One
- * @since Twenty Twenty-One 1.0
+ * @since Twenty Twenty-One-Child 1.0
  */
 
 add_action( 'wp_enqueue_scripts', 'twentytwentyonechild_wp_enqueue_styles' );
