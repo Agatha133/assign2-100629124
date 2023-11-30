@@ -1,4 +1,5 @@
 /*
+define('DISALLOW_FILE_EDIT',true);
 Theme Name:   Twenty Twenty One Child
 Theme URI:    http://example.com/twenty-twenty-one-child/
 Description:  Twenty Twenty Child Theme
@@ -11,3 +12,4 @@ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 Tags:         one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
 Text Domain:  twentytwentyonechild
 */
+
