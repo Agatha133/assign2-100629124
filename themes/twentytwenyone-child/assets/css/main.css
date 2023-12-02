@@ -1,0 +1,66 @@
+/* Changing the header and footer colour */
+#page {
+    background-color: #8fb691;
+}
+
+/* Changing the Page Colour */
+.entry-content {
+    background-color: #F9E8D9;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+/* Shrink the logo size */
+.site-logo .custom-logo {
+    width: 50px;
+}
+
+/* Title */
+.alignfull{
+    font-size: 100px;
+}
+
+/* Changing the Nav */
+.primary-navigation > div > .menu-wrapper {
+    margin: 20px;
+    padding: 10px;
+    background-color: #698e6a;
+    border-radius: 9px;
+}
+
+/* Change padding of the header */
+#masthead {
+    padding: 0px;
+    width: 100%;
+}
+
+/* Changing the paragraph text */
+.entry-content p {
+    font-size: 20px;
+    text-align: left;
+    border-bottom: 1px black solid;
+    padding-bottom: 30px;
+}
+
+
+/* Change the link colours */
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: #698e6a;
+}
+
+/* Changing the grid of the widget area */
+.widget-area {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+/* Changing the footer style */
+.site-footer > .site-info {
+    background-color: #698e6a;
+    padding: 10px;
+    border-radius: 9px;
+}
